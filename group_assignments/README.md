@@ -13,7 +13,7 @@ For this project, we will be evaluating the AC Transit 19, 20, and 51A lines, wh
 ### Data sources (including links)
 We have used AC Transit's bus route GIS shapefile and bus stop GIS data shapefile from AC Transit's Data API & Resource Center. 
 
-**AC Transit's Data API & Resource Center URL:** https://www.actransit.org/data-api-resource-center
+AC Transit's Data API & Resource Center URL: https://www.actransit.org/data-api-resource-center
 
 ### Intended analysis and visualizations
 
