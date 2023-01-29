@@ -17,7 +17,7 @@ AC Transit's Data API & Resource Center URL: https://www.actransit.org/data-api-
 U.S. Census Data: https://data.census.gov/
 
 ### Intended analysis and visualizations
-For each of the 19, 20, and 51A lines, we analyzed and compared demographic information from the census. We selected demographic characteristics that we believed would reveal which line served populations that were comparatively the most mobility-disadvantaged or had the greatest inaccessibility to technology and, therefore, would likely benefit the greatest from real-time information displays. [To this end], we decided to analyze the following demographic characteristics of each census tract: median rent, [percentage of renters], means of transportation, travel time to work, race/ethnicity, age, and income. 
+For each of the 19, 20, and 51A lines, we analyzed and compared demographic information from the census. We selected demographic characteristics that we believed would reveal which line served populations that were comparatively the most mobility-disadvantaged or had the greatest inaccessibility to technology and, therefore, would likely benefit the greatest from real-time information displays. We decided to analyze general demographic characteristics (e.g. age, income, and race), transportation characteristics (e.g. percent of workers commuting by car), and housing characteristics (e.g. median rent) of each tract that the lines run through. 
 
 ### Hypotheses
 We believe that the [XXX] line would benefit most from real-time information displays at some of their bus stops because...
