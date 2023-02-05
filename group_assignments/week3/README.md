@@ -6,7 +6,7 @@
 #### Roles
 Purva Kapshikar: 
 
-Hamzah Yaacob:
+Hamzah Yaacob: 
 
 Jackson Zeng:
 
@@ -16,5 +16,6 @@ Jackson Zeng:
 
 #### Concerns
 ##### Major
+###### We are a small group of only three people. Will we be judged the same way as other groups who have four or five people?
 
 ##### Minor
