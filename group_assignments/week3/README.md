@@ -6,15 +6,15 @@
 #### Roles
 Purva Kapshikar: 
 
-Creating maps for AC Transit route 51A and analyzing relevant data related to this bus route.
+Creating maps for AC Transit route 51A and analyzing relevant data related to this bus route. Areas of analysis include ridership data, frequency, demographics of areas served (i.e. race and income), housing profiles and transportation choices.
 
 Hamzah Yaacob: 
 
-Creating maps for AC Transit route 19 and analyzing relevant data related to this bus route.
+Creating maps for AC Transit route 19 and analyzing relevant data related to this bus route. Aforesaid areas of analysis. 
 
 Jackson Zeng:
 
-Creating maps for AC Transit route 20 and analyzing relevant data related to this bus route.
+Creating maps for AC Transit route 20 and analyzing relevant data related to this bus route. Aforesaid areas of analysis. 
 
 #### Status Update
 
@@ -29,6 +29,8 @@ We have reached out to AC Transit to ask for ridership data per each of the stop
 
 We are a small group of only three people. Will we be judged the same way as other groups who have four or five people?
 
-Not being able to obtain the data that we need from AC Transit.
+Not being able to obtain the data that we need from AC Transit. AC Transit may not record data for each individual stop.
 
 ##### Minor
+
+NA
