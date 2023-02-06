@@ -29,4 +29,6 @@ We have reached out to AC Transit to ask for ridership data per each of the stop
 
 We are a small group of only three people. Will we be judged the same way as other groups who have four or five people?
 
+Not being able to obtain the data that we need from AC Transit.
+
 ##### Minor
