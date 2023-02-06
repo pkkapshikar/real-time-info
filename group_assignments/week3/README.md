@@ -18,7 +18,7 @@ Creating maps for AC Transit route 20 and analyzing relevant data related to thi
 
 #### Status Update
 
-We have analyzed each bus route according to demographic, housing and transportation dimensions. We have found some patterns associated with these dimensions, which could inform our decision as to where to locate real-time bus arrival information. To do so, we have pulled data from the US Census and AC Transit. 
+We have analyzed each bus route according to demographic, housing and transportation dimensions. We have found some patterns associated with these dimensions, which could inform our decision as to where to locate real-time bus arrival information. During this phase, we have pulled data from the US Census and AC Transit. 
 
 #### Data Update
 
