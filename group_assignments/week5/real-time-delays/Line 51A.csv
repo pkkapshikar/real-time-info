@@ -1,43 +1,43 @@
-,Unnamed: 0,stop_id,stop_name,stop_code,zone_id,02/10/2023 13:50:40,02/12/2023 09:15:30
-0,0,6200,Broadway & 15th St,52894,E,85.0,24.0
-1,1,17,Broadway & Tilden Way,51545,E,66.0,111.0
-2,2,136,Santa Clara Av & 8th St,55995,E,85.0,0.0
-3,3,140,Santa Clara Av & Bay St,55537,E,85.0,0.0
-4,4,141,Santa Clara Av & Broadway,57733,E,66.0,60.0
-5,5,143,Santa Clara Av & Chestnut St,55579,E,66.0,69.0
-6,6,144,Santa Clara Av & Grand St,56661,E,66.0,30.0
-7,7,147,Santa Clara Av & Park St,55511,E,66.0,54.0
-8,8,150,Santa Clara Av & Stanton St,55994,E,66.0,0.0
-9,9,153,Santa Clara Av & Willow St,51119,E,66.0,114.0
-10,10,168,Webster St & Lincoln Av,55549,E,85.0,22.0
-11,11,188,Webster St & Santa Clara Av,55444,E,85.0,8.0
-12,12,193,Broadway & Blanding Av,58677,E,66.0,57.0
-13,13,203,Webster St & Atlantic Av,59400,E,85.0,139.0
-14,14,211,Webster St & Willie Stargell Av,50542,E,85.0,85.0
-15,15,2305,8th St & Broadway,54222,E,85.0,0.0
-16,16,2306,8th St & Harrison St,59222,E,85.0,0.0
-17,17,2486,Broadway & 17th St,53335,E,85.0,93.0
-18,18,2489,Broadway & 20th St (19th St BART),57111,E,85.0,92.0
-19,19,2490,Broadway & 25th St,59522,E,214.0,65.0
-20,20,2491,Broadway & 27th St,50639,E,214.0,83.0
-21,21,2492,Broadway & 28th St,56567,E,214.0,94.0
-22,22,2496,Broadway & 40th St,56655,E,214.0,51.0
-23,23,2507,Broadway & Grand Av,55771,E,85.0,106.0
-24,24,2509,Broadway & Piedmont Av,59552,E,214.0,92.0
-25,25,2542,College Av & Broadway,53311,E,214.0,99.0
-26,26,2547,College Av & Lawton Av,56969,E,214.0,341.0
-27,27,2548,College Av & Manila Av,55644,E,214.0,333.0
-28,28,2826,Fruitvale Av & E 9th St,58058,E,0.0,255.0
-29,29,2844,Fruitvale BART,51333,E,1008.0,0.0
-30,30,3701,Broadway & W MacArthur Blvd,50147,E,214.0,74.0
-31,31,3720,Keith Av & College Av,50484,E,214.0,331.0
-32,32,5231,Broadway & Mather St,50986,E,214.0,58.0
-33,33,5315,Santa Clara Av & Walnut St,51461,E,66.0,132.0
-34,34,5318,Santa Clara Av & Oak St,51471,E,66.0,141.0
-35,35,5319,Santa Clara Av & Morton St,51474,E,85.0,0.0
-36,36,5321,Santa Clara Av & Mozart St,51476,E,85.0,0.0
-37,37,5322,Webster St & Buena Vista Av,51478,E,85.0,65.0
-38,38,5326,Broadway & 30th St,51502,E,214.0,66.0
-39,39,5327,Broadway & Kaiser Hospital Entrance,51503,E,214.0,45.0
-40,40,5328,Broadway & Pleasant Valley Av,51504,E,214.0,83.0
-41,41,6036,Broadway & 11th St (12th St BART),52999,E,85.0,0.0
+,stop_id,stop_name,stop_code,zone_id,2/12/23 14:59
+0,6200,Broadway & 15th St,52894,E,268
+1,17,Broadway & Tilden Way,51545,E,84
+2,136,Santa Clara Av & 8th St,55995,E,48.66666667
+3,140,Santa Clara Av & Bay St,55537,E,82.66666667
+4,141,Santa Clara Av & Broadway,57733,E,74
+5,143,Santa Clara Av & Chestnut St,55579,E,126.6666667
+6,144,Santa Clara Av & Grand St,56661,E,113
+7,147,Santa Clara Av & Park St,55511,E,96
+8,150,Santa Clara Av & Stanton St,55994,E,92.66666667
+9,153,Santa Clara Av & Willow St,51119,E,133.3333333
+10,168,Webster St & Lincoln Av,55549,E,97.66666667
+11,188,Webster St & Santa Clara Av,55444,E,59.66666667
+12,193,Broadway & Blanding Av,58677,E,54
+13,203,Webster St & Atlantic Av,59400,E,160.6666667
+14,211,Webster St & Willie Stargell Av,50542,E,129.6666667
+15,2305,8th St & Broadway,54222,E,123.6666667
+16,2306,8th St & Harrison St,59222,E,90
+17,2486,Broadway & 17th St,53335,E,296
+18,2489,Broadway & 20th St (19th St BART),57111,E,295
+19,2490,Broadway & 25th St,59522,E,329
+20,2491,Broadway & 27th St,50639,E,327
+21,2492,Broadway & 28th St,56567,E,334
+22,2496,Broadway & 40th St,56655,E,340.3333333
+23,2507,Broadway & Grand Av,55771,E,335
+24,2509,Broadway & Piedmont Av,59552,E,378
+25,2542,College Av & Broadway,53311,E,363.6666667
+26,2547,College Av & Lawton Av,56969,E,256.6666667
+27,2548,College Av & Manila Av,55644,E,303.6666667
+28,2826,Fruitvale Av & E 9th St,58058,E,157
+29,2844,Fruitvale BART,51333,E,0
+30,3701,Broadway & W MacArthur Blvd,50147,E,400.5
+31,3720,Keith Av & College Av,50484,E,0
+32,5231,Broadway & Mather St,50986,E,296
+33,5315,Santa Clara Av & Walnut St,51461,E,112
+34,5318,Santa Clara Av & Oak St,51471,E,122
+35,5319,Santa Clara Av & Morton St,51474,E,88.66666667
+36,5321,Santa Clara Av & Mozart St,51476,E,56.66666667
+37,5322,Webster St & Buena Vista Av,51478,E,108.6666667
+38,5326,Broadway & 30th St,51502,E,349
+39,5327,Broadway & Kaiser Hospital Entrance,51503,E,328
+40,5328,Broadway & Pleasant Valley Av,51504,E,324
+41,6036,Broadway & 11th St (12th St BART),52999,E,171
